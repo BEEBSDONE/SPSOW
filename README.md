@@ -1,8 +1,8 @@
 <h1 align="center" style="font-weight: bold;">SPSOWv4 - Single Port Scanning of The World IPv4</h1>
 
 
-<p align="center">This is a small script written in C to scan a single port just like an Nmap scan, but it's worldwide. The script creates a list of all the IP addresses possible excluding special-use ones like 192.168.x.x etc...
-ATTENTION!!!
+<p align="center">This is a small script written in C to scan a single port just like an Nmap scan, but it's worldwide. The script creates a list of all the IP addresses possible excluding special-use ones like 192.168.x.x etc...</p><br>
+ATTENTION!!!</br>
 If you want to scan all the world, the IP list will be around 50GB when it's done generating, so make sure that you have enough space in your HD.
 You can still choose a range of IP instead of all the world. </p>
 
