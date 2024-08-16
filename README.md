@@ -14,10 +14,10 @@ You can use any C compiler that you want, I used GCC but it's up to you really.
 
 <h2 id="started">🚀 Getting started</h2>
 
-Compile SPSOW.c file by using the command below if you're using GCC:
+Compile SPSOW.c file by using the command below if you're using GCC:</br>
 gcc SPSOW.c -o SPSOW
 
 <h2>Starting</h2>
 
-To start to script, execute the executable created by the compiler like so:
+To start to script, execute the executable created by the compiler like so:</br>
 ./SPSOW
